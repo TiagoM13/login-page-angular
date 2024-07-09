@@ -49,6 +49,6 @@ export class SignupComponent {
   }
 
   navigate() {
-    this.router.navigate(['/logn'])
+    this.router.navigate(['/login'])
   }
 }
